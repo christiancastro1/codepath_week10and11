@@ -18,7 +18,7 @@ Time spent: **7** hours spent in total
      deploy. You shoudl see a command that starts with wget
      - in the honeypot instance open the ssh and input the command that you copied 'wget'
      
-##Problems encountered. 
+## Problems encountered. 
 Setting up the the project was a little dificult. Just reading the steps where confusing. Had to do it 2 times
 since the first time i messed up with the set up and was not wokring as intended
 
