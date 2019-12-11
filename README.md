@@ -7,7 +7,7 @@ Time spent: **7** hours spent in total
 - [ ] The instance for the honeypot that i used was Ubuntu/Raspberry Pi - Dionaea
 - [ ] This network-accessible honeypot server has vulenrbilities to network-based attacks
 
-##Setup 
+## Setup 
 - [ ] Created a google cloud service acccount, used the free trial.
 - [ ] Created a MHN Admin VM
 - [ ] allow HTTP traffic and all ports
